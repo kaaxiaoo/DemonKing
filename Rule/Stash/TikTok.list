@@ -24,5 +24,4 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com,TikTok
   - DOMAIN-KEYWORD,musical.ly,TikTok
   - DOMAIN-KEYWORD,tiktok,TikTok
-  - PROCESS-NAME,com.zhiliaoapp.musically,TikTok
 
